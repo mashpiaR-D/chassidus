@@ -1,0 +1,2302 @@
+# Quote check, manuscript by manuscript. Written by verification/check_quotes.py.
+books_checked: 37
+results:
+  - result: "001"
+    manuscripts:
+      - folder: Chassidus-Unity-Index-September-29-2026
+        quotes: 41
+        found: 38
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: The-spine-of-the-Chassidus-Unity-Index-September-28-2026
+        quotes: 201
+        found: 168
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Subjects-of-Chassidus-for-the-Unity-Index-September-29-2026
+        quotes: 24
+        found: 22
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Eight-sources-on-the-unity-of-God-what-they-say-together-September-29-2026
+        quotes: 117
+        found: 102
+        status: partly found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "002"
+    manuscripts:
+      - folder: K01-God-Unity-and-Essence-September-28-2026
+        quotes: 116
+        found: 88
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K02-Tzimtzum-Light-and-the-Chain-of-Worlds-September-28-2026
+        quotes: 146
+        found: 119
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: K03-Sefiros-Names-and-the-Supernal-Order-September-28-2026
+        quotes: 101
+        found: 75
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K04-Holiness-Kelipah-and-the-Sparks-September-28-2026
+        quotes: 116
+        found: 87
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: K05-The-Soul-September-28-2026
+        quotes: 102
+        found: 79
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: K06-Faculties-of-the-Soul-September-28-2026
+        quotes: 108
+        found: 85
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K07-Torah-Letters-and-the-Study-of-Chassidus-September-28-2026
+        quotes: 112
+        found: 88
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K08-Mitzvos-September-28-2026
+        quotes: 107
+        found: 79
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: K09-Prayer-and-Contemplation-September-28-2026
+        quotes: 96
+        found: 66
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: K10-Love-Awe-Cleaving-and-Bitul-September-28-2026
+        quotes: 109
+        found: 78
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+      - folder: K11-Teshuvah-and-Refining-Character-September-28-2026
+        quotes: 110
+        found: 80
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K12-Inner-Life-Joy-Suffering-Faith-and-Death-September-28-2026
+        quotes: 94
+        found: 71
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: K13-Time-Shabbos-Festivals-and-Months-September-28-2026
+        quotes: 94
+        found: 74
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K14-The-Tzaddik-and-the-Community-September-28-2026
+        quotes: 84
+        found: 53
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K15-Exile-Redemption-the-Nations-and-the-Land-September-28-2026
+        quotes: 101
+        found: 75
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K16-The-Physical-Body-Food-Money-and-Nature-September-28-2026
+        quotes: 138
+        found: 89
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "003"
+    manuscripts:
+      - folder: Unity-Index-Works-group-01-September-29-2026
+        quotes: 16
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Unity-Index-Works-group-02-September-29-2026
+        quotes: 55
+        found: 5
+        status: partly found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Unity-Index-Works-group-03-September-29-2026
+        quotes: 50
+        found: 9
+        status: partly found
+        found_in: ["Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Unity-Index-Works-group-04-September-29-2026
+        quotes: 106
+        found: 17
+        status: partly found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Unity-Index-Works-group-05-September-29-2026
+        quotes: 74
+        found: 32
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Unity-Index-Works-group-06-September-29-2026
+        quotes: 114
+        found: 29
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))", "Sefer HaChakirah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Unity-Index-Works-group-07-September-29-2026
+        quotes: 74
+        found: 13
+        status: partly found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres Toras HaChassidus (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: Unity-Index-Works-group-08-September-29-2026
+        quotes: 97
+        found: 37
+        status: partly found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Unity-Index-Works-group-09-September-29-2026
+        quotes: 73
+        found: 21
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Orah (R. Dovber Schneuri (Mitteler Rebbe))", "Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Unity-Index-Works-group-10-September-29-2026
+        quotes: 52
+        found: 8
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Unity-Index-Works-group-11-September-29-2026
+        quotes: 46
+        found: 17
+        status: partly found
+        found_in: ["Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Unity-Index-Works-group-12-September-29-2026
+        quotes: 30
+        found: 10
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+  - result: "004"
+    manuscripts:
+      - folder: The-meditation-behind-each-face-September-29-2026
+        quotes: 39
+        found: 35
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres Toras HaChassidus (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: The-meditation-behind-every-subject-September-29-2026
+        quotes: 18
+        found: 16
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: K01-God-Unity-and-Essence-the-meditation-behind-each-subject-September-29-2026
+        quotes: 48
+        found: 42
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: K02-Tzimtzum-Light-and-the-Chain-of-Worlds-the-meditation-behind-each-subject-September-29-2026
+        quotes: 63
+        found: 56
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: K03-Sefiros-Names-and-the-Supernal-Order-the-meditation-behind-each-subject-September-29-2026
+        quotes: 40
+        found: 35
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K04-Holiness-Kelipah-and-the-Sparks-the-meditation-behind-each-subject-September-29-2026
+        quotes: 46
+        found: 42
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: K05-The-Soul-the-meditation-behind-each-subject-September-29-2026
+        quotes: 38
+        found: 35
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K06-Faculties-of-the-Soul-the-meditation-behind-each-subject-September-29-2026
+        quotes: 42
+        found: 36
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: K07-Torah-Letters-and-the-Study-of-Chassidus-the-meditation-behind-each-subject-September-29-2026
+        quotes: 46
+        found: 45
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K08-Mitzvos-the-meditation-behind-each-subject-September-29-2026
+        quotes: 41
+        found: 38
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: K09-Prayer-and-Contemplation-the-meditation-behind-each-subject-September-29-2026
+        quotes: 36
+        found: 27
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K10-Love-Awe-Cleaving-and-Bitul-the-meditation-behind-each-subject-September-29-2026
+        quotes: 42
+        found: 37
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: K11-Teshuvah-and-Refining-Character-the-meditation-behind-each-subject-September-29-2026
+        quotes: 48
+        found: 38
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))", "Pelach HaRimon (R. Hillel HaLevi of Paritch)"]
+      - folder: K12-Inner-Life-Joy-Suffering-Faith-and-Death-the-meditation-behind-each-subject-September-29-2026
+        quotes: 42
+        found: 37
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: K13-Time-Shabbos-Festivals-and-Months-the-meditation-behind-each-subject-September-29-2026
+        quotes: 42
+        found: 37
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: K14-The-Tzaddik-and-the-Community-the-meditation-behind-each-subject-September-29-2026
+        quotes: 35
+        found: 30
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: K15-Exile-Redemption-the-Nations-and-the-Land-the-meditation-behind-each-subject-September-29-2026
+        quotes: 48
+        found: 41
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: K16-The-Physical-Body-Food-Money-and-Nature-the-meditation-behind-each-subject-September-29-2026
+        quotes: 49
+        found: 34
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "005"
+    manuscripts:
+      - folder: One-process-knowing-the-unity-is-meditating-on-it-September-29-2026
+        quotes: 218
+        found: 193
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+  - result: "006"
+    manuscripts:
+      - folder: The-Tanya-line-by-line-one-idea-September-29-2026
+        quotes: 10
+        found: 10
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-1-280-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 16
+        found: 16
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-281-560-Likkutei-Amarim-18-11-to-38-15-October-5-2026
+        quotes: 11
+        found: 11
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-561-840-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 26
+        found: 26
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-841-1120-Shaar-HaYichud-VehaEmunah-7-19-to-Iggeret-HaKodesh-8-7-October-5-2026
+        quotes: 18
+        found: 18
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-1121-1400-Iggeret-HaKodesh-8-8-to-25-26-October-5-2026
+        quotes: 78
+        found: 77
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tanya-lines-1401-1660-Iggeret-HaKodesh-25-27-to-Kuntres-Acharon-9-12-October-5-2026
+        quotes: 62
+        found: 62
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+  - result: "007"
+    manuscripts:
+      - folder: The-Gate-of-Unity-line-by-line-one-idea-in-every-detail-September-29-2026
+        quotes: 10
+        found: 10
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: The-Gate-of-Unity-lines-1-905-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Gate-of-Unity-lines-906-1810-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 30
+        found: 30
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Gate-of-Unity-lines-1811-2713-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "008"
+    manuscripts:
+      - folder: Imrei-Binah-line-by-line-the-Shema-as-the-place-where-the-one-idea-is-made-September-29-2026
+        quotes: 12
+        found: 12
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Imrei-Binah-lines-1-98-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 56
+        found: 56
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-99-181-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-182-265-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 40
+        found: 40
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-266-351-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 31
+        found: 31
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-352-437-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-438-521-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 42
+        found: 42
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-lines-522-603-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 46
+        found: 46
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+  - result: "009"
+    manuscripts:
+      - folder: Kuntres-HaHitpaalut-line-by-line-the-real-arousal-and-its-counterfeits-September-29-2026
+        quotes: 11
+        found: 11
+        status: all found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Kuntres-HaHitpaalut-lines-1-912-the-real-arousal-and-its-counterfeits-October-5-2026
+        quotes: 23
+        found: 23
+        status: all found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+  - result: "010"
+    manuscripts:
+      - folder: Kuntres-HaTefillah-line-by-line-prayer-as-the-place-where-knowing-the-unity-September-29-2026
+        quotes: 8
+        found: 8
+        status: all found
+        found_in: ["Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Kuntres-HaAvodah-line-by-line-prayer-as-the-place-where-the-unity-is-felt-September-29-2026
+        quotes: 7
+        found: 7
+        status: all found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Kuntres-HaTefillah-lines-1-253-prayer-as-the-place-where-knowing-the-unity-October-5-2026
+        quotes: 17
+        found: 17
+        status: all found
+        found_in: ["Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Kuntres-HaAvodah-lines-1-306-prayer-as-the-place-where-the-unity-is-known-October-5-2026
+        quotes: 11
+        found: 11
+        status: all found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "011"
+    manuscripts:
+      - folder: Hemshech-Samach-Vav-line-by-line-the-Essence-below-through-the-will-that-has-no-September-29-2026
+        quotes: 43
+        found: 43
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-1-759-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-760-1421-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-1422-2062-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 16
+        found: 16
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-2063-2700-what-Ein-Sof-names-and-why-the-world-is-from-October-5-2026
+        quotes: 38
+        found: 38
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-2701-3377-Havayah-and-Elokim-the-two-knowledges-and-October-5-2026
+        quotes: 21
+        found: 21
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-3378-3942-the-Essence-reached-by-no-the-will-that-is-October-5-2026
+        quotes: 37
+        found: 37
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-3943-4518-the-simple-servant-the-end-wedged-in-the-October-5-2026
+        quotes: 34
+        found: 34
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-4519-5139-the-white-that-adds-nothing-Torah-that-joins-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Samach-Vav-lines-5140-5774-truth-to-its-truth-the-Name-with-no-meaning-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-5775-6399-the-souls-root-in-the-Essence-the-ascent-October-5-2026
+        quotes: 45
+        found: 45
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-6400-7270-the-Essence-on-Yom-Kippur-the-notes-of-the-October-5-2026
+        quotes: 58
+        found: 58
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-7271-8119-the-editors-summaries-of-the-series-and-the-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Hemshech-Samach-Vav-lines-8120-9229-the-indexes-at-the-back-of-the-book-October-5-2026
+        quotes: 15
+        found: 15
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "012"
+    manuscripts:
+      - folder: Hemshech-Ayin-Beis-line-by-line-the-Essence-that-hides-in-order-to-shine-and-the-September-29-2026
+        quotes: 48
+        found: 48
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-1-587-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 34
+        found: 34
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-588-1167-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 37
+        found: 37
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-1168-1742-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-1743-2315-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 51
+        found: 51
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-2316-2881-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 72
+        found: 72
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-2882-3429-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 94
+        found: 94
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-3430-3941-the-tzimtzum-that-does-not-reach-the-Essence-October-5-2026
+        quotes: 61
+        found: 61
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-3942-4471-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-4472-5017-the-two-knowledges-the-vessel-turned-to-light-October-5-2026
+        quotes: 73
+        found: 73
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Hemshech-Ayin-Beis-lines-5018-5750-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 37
+        found: 37
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "013"
+    manuscripts:
+      - folder: Shaarei-HaYichud-VeEmunah-line-by-line-one-idea-September-29-2026
+        quotes: 14
+        found: 14
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-1-96-the-Preface-and-the-Introduction-October-5-2026
+        quotes: 36
+        found: 36
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-97-281-the-First-Gate-the-gate-of-the-whole-of-October-5-2026
+        quotes: 24
+        found: 24
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-282-421-the-first-half-of-the-Second-Gate-October-5-2026
+        quotes: 27
+        found: 27
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-422-562-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 58
+        found: 58
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-563-778-the-Third-Gate-the-gate-of-the-faces-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-779-931-the-Fourth-Gate-the-Gate-of-Lights-and-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Shaarei-HaYichud-VeEmunah-lines-932-1093-the-Fifth-Gate-katnut-and-gadlut-October-5-2026
+        quotes: 22
+        found: 22
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+  - result: "014"
+    manuscripts:
+      - folder: Sefer-HaArachim-Chabad-vol-9-Achdus-Hashem-lines-2051-4101-October-5-2026
+        quotes: 49
+        found: 3
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Sefer-HaArachim-Chabad-vol-9-the-unity-entries-lines-1-2050-October-5-2026
+        quotes: 46
+        found: 5
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+  - result: "015"
+    manuscripts:
+      - folder: Darkei-HaChassidus-how-the-unity-becomes-a-life-September-29-2026
+        quotes: 247
+        found: 112
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Darkei-HaChassidus-sources-A-the-Alter-Rebbe-and-the-Rebbe-Rashab-with-R-Hillel-September-29-2026
+        quotes: 167
+        found: 139
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Darkei-HaChassidus-sources-D-the-wider-Chassidic-world-beyond-Chabad-September-29-2026
+        quotes: 206
+        found: 24
+        status: partly found
+        found_in: ["Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Darkei-HaChassidus-sources-B-the-Lubavitcher-Rebbe-the-Tzemach-Tzedek-the-September-29-2026
+        quotes: 190
+        found: 122
+        status: partly found
+        found_in: ["Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Darkei-HaChassidus-sources-C-the-Rebbe-Rayatz-September-29-2026
+        quotes: 203
+        found: 21
+        status: partly found
+        found_in: ["Kuntres Toras HaChassidus (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))", "Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+  - result: "016"
+    manuscripts:
+      - folder: The-Rambam-one-God-known-by-negation-loved-by-knowing-served-all-day-September-30-2026
+        quotes: 4
+        found: 2
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Commentary-on-the-Mishnah-the-Introduction-Perek-Chelek-with-the-Thirteen-October-5-2026
+        quotes: 6
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Mishneh-Torah-at-index-level-what-each-book-is-and-where-the-inner-teaching-October-5-2026
+        quotes: 3
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Mishneh-Torah-the-Book-of-Knowledge-with-Prayer-the-Mezuzah-and-the-Messiah-October-5-2026
+        quotes: 10
+        found: 2
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Shemonah-Perakim-Eight-Chapters-the-health-of-the-soul-October-5-2026
+        quotes: 4
+        found: 0
+        status: none found here
+      - folder: The-Guide-for-the-Perplexed-Part-One-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 7
+        found: 0
+        status: none found here
+      - folder: The-Guide-for-the-Perplexed-Part-Three-the-chariot-providence-the-commandments-October-5-2026
+        quotes: 6
+        found: 0
+        status: none found here
+      - folder: The-Guide-for-the-Perplexed-Part-Two-how-the-range-builds-the-one-idea-October-5-2026
+        quotes: 2
+        found: 1
+        status: partly found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: The-Letters-and-the-Book-of-the-Commandments-October-5-2026
+        quotes: 3
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+  - result: "017"
+    manuscripts:
+      - folder: The-Kuzari-the-God-of-Abraham-known-by-taste-and-served-in-joy-September-30-2026
+        quotes: 8
+        found: 0
+        status: none found here
+      - folder: Kuzari-part-3-lines-205-278-the-pious-mans-day-October-5-2026
+        quotes: 19
+        found: 0
+        status: none found here
+      - folder: Kuzari-parts-1-and-2-lines-1-204-October-5-2026
+        quotes: 31
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Kuzari-parts-4-and-5-lines-279-350-the-God-of-Abraham-and-the-God-of-Aristotle-October-5-2026
+        quotes: 23
+        found: 0
+        status: none found here
+  - result: "018"
+    manuscripts:
+      - folder: The-Zohar-on-Bereshit-volume-I-overview-for-the-understanding-layer-September-30-2026
+        quotes: 26
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: The-Zohar-on-Shemot-volume-II-overview-for-the-understanding-layer-September-30-2026
+        quotes: 8
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Zohar-part-1-the-Hakdamah-Introduction-September-30-2026
+        quotes: 26
+        found: 0
+        status: none found here
+      - folder: Zohar-part-1-Bereshit-I-the-first-days-September-30-2026
+        quotes: 25
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Bereshit-II-light-in-darkness-the-Garden-the-seven-palaces-of-September-30-2026
+        quotes: 28
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-part-1-Bereshit-III-Shabbat-the-flame-the-serpent-Enoch-the-flood-September-30-2026
+        quotes: 25
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Noach-September-30-2026
+        quotes: 33
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Lech-Lecha-September-30-2026
+        quotes: 29
+        found: 0
+        status: none found here
+      - folder: Zohar-part-1-Vayera-September-30-2026
+        quotes: 30
+        found: 2
+        status: partly found
+        found_in: ["Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Chayei-Sara-September-30-2026
+        quotes: 23
+        found: 1
+        status: partly found
+        found_in: ["Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Toldot-September-30-2026
+        quotes: 18
+        found: 1
+        status: partly found
+        found_in: ["Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Zohar-part-1-Vayetzei-September-30-2026
+        quotes: 33
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Zohar-part-1-Vayishlach-September-30-2026
+        quotes: 33
+        found: 0
+        status: none found here
+      - folder: Zohar-part-1-Vayeshev-September-30-2026
+        quotes: 29
+        found: 0
+        status: none found here
+      - folder: Zohar-part-1-Miketz-September-30-2026
+        quotes: 35
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-part-1-Vayigash-September-30-2026
+        quotes: 25
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Zohar-part-1-Vayechi-I-September-30-2026
+        quotes: 25
+        found: 1
+        status: partly found
+        found_in: ["Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Zohar-part-1-Vayechi-II-September-30-2026
+        quotes: 35
+        found: 1
+        status: partly found
+        found_in: ["Sefer HaChakirah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Zohar-part-1-Addenda-to-Volume-I-September-30-2026
+        quotes: 28
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Shemot-the-Shekhinah-goes-into-exile-with-them-September-30-2026
+        quotes: 16
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Vaera-and-Bo-the-voice-without-its-word-and-the-One-without-form-September-30-2026
+        quotes: 26
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-on-Beshalach-the-sea-the-song-and-bread-from-heaven-day-by-day-September-30-2026
+        quotes: 20
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Yitro-the-hidden-trace-the-faces-of-a-person-and-the-voice-at-Sinai-September-30-2026
+        quotes: 24
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Mishpatim-the-Old-Mans-journey-the-maiden-in-the-palace-and-the-kiss-September-30-2026
+        quotes: 30
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Terumah-first-half-the-order-of-prayer-the-Shema-the-kiss-and-the-soul-September-30-2026
+        quotes: 51
+        found: 2
+        status: partly found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Zohar-on-Terumah-second-half-the-table-the-menorah-the-gate-of-tears-and-all-is-September-30-2026
+        quotes: 41
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-Sifra-DiTzniuta-Tetzaveh-and-Ki-Tisa-the-hidden-One-light-out-of-darkness-September-30-2026
+        quotes: 43
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Zohar-on-Vayakhel-the-path-of-prayer-Shabbats-added-soul-and-the-Shema-to-Ein-September-30-2026
+        quotes: 48
+        found: 0
+        status: none found here
+      - folder: Zohar-on-Pekudei-first-half-the-counted-and-the-hidden-the-work-that-finishes-September-30-2026
+        quotes: 34
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-on-Pekudei-second-half-the-Heikhalot-the-palaces-of-prayer-and-their-September-30-2026
+        quotes: 49
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-Addenda-to-Volume-II-seeing-the-voices-the-hidden-thought-and-the-child-September-30-2026
+        quotes: 28
+        found: 0
+        status: none found here
+  - result: "019"
+    manuscripts:
+      - folder: The-Zohar-on-Vayikra-Bamidbar-and-Devarim-line-by-line-the-One-made-whole-below-September-30-2026
+        quotes: 8
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-volume-3-part-1-Vayikra-lines-1-449-September-30-2026
+        quotes: 21
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-2-Tzav-Shmini-Tazria-Metzora-lines-450-1011-September-30-2026
+        quotes: 14
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-3-Achrei-Mot-lines-1012-1424-September-30-2026
+        quotes: 12
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-4-Kedoshim-Emor-Behar-Bechukotai-lines-1425-2044-September-30-2026
+        quotes: 13
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-5-Bamidbar-and-Nasso-lines-2045-2320-September-30-2026
+        quotes: 7
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-6-the-Idra-Rabba-in-Naso-lines-2321-2684-September-30-2026
+        quotes: 21
+        found: 2
+        status: partly found
+        found_in: ["Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Zohar-volume-3-part-7-Behaalotcha-and-Shlach-lines-2685-3182-September-30-2026
+        quotes: 11
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-8-Korach-Chukat-and-Balak-lines-3183-3839-September-30-2026
+        quotes: 8
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-9-Pinchas-first-half-lines-3840-4287-September-30-2026
+        quotes: 12
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-10-Pinchas-second-half-lines-4288-4734-September-30-2026
+        quotes: 5
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-volume-3-part-11-Matot-to-HaAzinu-lines-4735-5313-September-30-2026
+        quotes: 12
+        found: 0
+        status: none found here
+      - folder: Zohar-volume-3-part-12-the-Idra-Zuta-in-HaAzinu-lines-5314-5492-September-30-2026
+        quotes: 15
+        found: 1
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Zohar-volume-3-part-13-Addenda-to-volume-III-lines-1-251-September-30-2026
+        quotes: 10
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "020"
+    manuscripts:
+      - folder: Zohar-part-4-the-Tikkunei-Zohar-and-the-Zohar-Chadash-September-30-2026
+        quotes: 9
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tikkunei-Zohar-1a-17b-the-first-introduction-and-Patach-Eliyahu-September-30-2026
+        quotes: 35
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tikkunei-Zohar-17b-42a-Tikkunim-1-20-September-30-2026
+        quotes: 52
+        found: 0
+        status: none found here
+      - folder: Tikkunei-Zohar-42b-63a-Tikkun-21-the-long-tikkun-of-prayer-the-heart-and-the-September-30-2026
+        quotes: 31
+        found: 0
+        status: none found here
+      - folder: Tikkunei-Zohar-63b-111a-from-the-Sinai-tikkun-to-leit-atar-panui-and-the-doors-September-30-2026
+        quotes: 60
+        found: 0
+        status: none found here
+      - folder: Tikkunei-Zohar-111a-148a-Cains-return-the-face-that-shows-the-soul-and-the-Name-September-30-2026
+        quotes: 54
+        found: 1
+        status: partly found
+        found_in: ["Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-Chadash-Bereshit-the-one-day-the-one-point-and-a-mind-made-to-know-its-September-30-2026
+        quotes: 43
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-Chadash-Eichah-Sifra-Tanina-Tikuna-Kadmaah-and-the-additions-the-mother-September-30-2026
+        quotes: 74
+        found: 7
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Pirush HaMilos (R. Dovber Schneuri (Mitteler Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Zohar-Chadash-Midrash-Rut-tears-that-open-every-gate-the-Name-hidden-in-a-person-September-30-2026
+        quotes: 63
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Zohar-Chadash-Noach-to-Beshalach-the-day-examined-the-open-tunnel-and-a-God-who-September-30-2026
+        quotes: 31
+        found: 0
+        status: none found here
+      - folder: Zohar-Chadash-Shir-HaShirim-kisses-to-become-one-David-looking-up-in-the-September-30-2026
+        quotes: 41
+        found: 1
+        status: partly found
+        found_in: ["Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Zohar-Chadash-Terumah-to-Ki-Tavo-prayer-as-giving-the-soul-the-whispering-heart-September-30-2026
+        quotes: 45
+        found: 2
+        status: partly found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)", "Esh Kodesh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Zohar-Chadash-Yitro-no-place-without-Him-a-mind-that-cannot-hold-Him-and-the-September-30-2026
+        quotes: 36
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+  - result: "021"
+    manuscripts:
+      - folder: R-Meir-ibn-Gabbai-the-service-is-a-need-on-high-September-30-2026
+        quotes: 3
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-1-the-introduction-and-the-Part-of-Unity-chapters-1-12-October-5-2026
+        quotes: 26
+        found: 2
+        status: partly found
+        found_in: ["Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Avodat-HaKodesh-range-2-the-Part-of-Unity-chapters-13-27-lines-140-342-October-5-2026
+        quotes: 15
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Avodat-HaKodesh-range-3-the-end-of-the-Part-of-Unity-and-the-Part-of-Service-October-5-2026
+        quotes: 21
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Avodat-HaKodesh-range-4-the-Part-of-Service-chapters-15-24-lines-554-735-October-5-2026
+        quotes: 18
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Avodat-HaKodesh-range-5-the-Part-of-Service-chapters-25-38-lines-736-910-October-5-2026
+        quotes: 11
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-6-the-end-of-Part-2-and-the-opening-of-the-Part-of-Purpose-October-5-2026
+        quotes: 13
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-7-the-Part-of-Purpose-chapters-7-13-lines-1116-1276-October-5-2026
+        quotes: 17
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-8-the-Part-of-Purpose-chapters-14-21-lines-1277-1401-October-5-2026
+        quotes: 5
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-9-the-Part-of-Purpose-chapters-22-33-lines-1402-1525-October-5-2026
+        quotes: 11
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-10-the-Part-of-Purpose-chapters-34-47-lines-1526-1653-October-5-2026
+        quotes: 13
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-11-the-end-of-the-Part-of-Purpose-chapters-48-70-lines-October-5-2026
+        quotes: 7
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-12-the-Part-of-Secrets-chapters-1-13-lines-1826-1942-October-5-2026
+        quotes: 8
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-13-the-Part-of-Secrets-chapters-14-24-lines-1943-2088-October-5-2026
+        quotes: 17
+        found: 0
+        status: none found here
+      - folder: Avodat-HaKodesh-range-14-the-Part-of-Secrets-chapters-25-36-and-the-close-of-the-October-5-2026
+        quotes: 15
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Derekh-Emunah-The-Way-of-Faith-R-Meir-ibn-Gabbai-on-the-sefirot-1-191-October-5-2026
+        quotes: 18
+        found: 0
+        status: none found here
+      - folder: Tolaat-Yaakov-The-Worm-of-Jacob-R-Meir-ibn-Gabbai-on-the-secrets-of-prayer-October-5-2026
+        quotes: 6
+        found: 0
+        status: none found here
+  - result: "022"
+    manuscripts:
+      - folder: The-Ramak-one-Cause-ten-garments-and-a-person-who-walks-like-his-Maker-September-30-2026
+        quotes: 19
+        found: 6
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Derishot-BeInyanei-HaMalachim-Inquiries-on-the-Angels-the-whole-book-October-5-2026
+        quotes: 25
+        found: 2
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Elima-Rabbati-an-OCR-skim-October-5-2026
+        quotes: 14
+        found: 0
+        status: none found here
+      - folder: Ohr-Neerav-The-Pleasant-Light-the-whole-book-October-5-2026
+        quotes: 55
+        found: 4
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Or-Yakar-on-prophecy-and-on-Bereshit-1-1-October-5-2026
+        quotes: 13
+        found: 0
+        status: none found here
+      - folder: Pardes-Rimmonim-lines-1-428-why-there-are-sefirot-at-all-October-5-2026
+        quotes: 31
+        found: 1
+        status: partly found
+        found_in: ["Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: Pardes-Rimmonim-lines-429-581-the-Infinite-the-crown-and-the-light-inside-the-October-5-2026
+        quotes: 43
+        found: 7
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Pardes-Rimmonim-lines-582-753-the-order-of-the-sefirot-and-a-world-renewed-every-October-5-2026
+        quotes: 19
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-754-982-judgment-as-a-hidden-face-and-the-awakening-from-October-5-2026
+        quotes: 29
+        found: 4
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-983-1225-wholeness-of-opposites-colors-that-move-the-soul-October-5-2026
+        quotes: 29
+        found: 0
+        status: none found here
+      - folder: Pardes-Rimmonim-lines-1226-1455-fifty-gates-returning-light-and-the-King-in-October-5-2026
+        quotes: 33
+        found: 3
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-1456-1630-the-moon-made-small-and-the-Names-as-handles-October-5-2026
+        quotes: 30
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-1631-1801-the-detailed-Names-and-a-person-as-a-chariot-October-5-2026
+        quotes: 27
+        found: 2
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-1802-2380-the-lexicon-of-names-alef-to-kaf-October-5-2026
+        quotes: 33
+        found: 3
+        status: partly found
+        found_in: ["Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-2381-2962-the-lexicon-of-names-kaf-to-tav-October-5-2026
+        quotes: 49
+        found: 7
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Pardes-Rimmonim-lines-2963-3106-palaces-angels-and-the-shells-October-5-2026
+        quotes: 48
+        found: 3
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-3107-3270-letters-vowels-and-cantillation-October-5-2026
+        quotes: 35
+        found: 3
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Pardes-Rimmonim-lines-3271-3445-combination-the-soul-and-intention-October-5-2026
+        quotes: 46
+        found: 7
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Sefer-Gerushin-The-Book-of-Wanderings-the-whole-book-October-5-2026
+        quotes: 39
+        found: 5
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: The-Ramak-on-Sefer-Yetzirah-the-whole-commentary-October-5-2026
+        quotes: 28
+        found: 3
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tomer-Devorah-The-Palm-Tree-of-Devorah-the-whole-book-October-5-2026
+        quotes: 59
+        found: 3
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "023"
+    manuscripts:
+      - folder: The-Maharal-the-One-who-is-not-a-number-a-world-that-is-one-because-He-is-One-September-30-2026
+        quotes: 48
+        found: 0
+        status: none found here
+      - folder: Beer-HaGolah-lines-1-250-Oneness-From-Every-Side-and-the-God-Who-Prays-October-5-2026
+        quotes: 50
+        found: 7
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: Beer-HaGolah-lines-251-529-His-Will-Joins-the-Middle-Point-and-the-Key-of-the-October-5-2026
+        quotes: 63
+        found: 9
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Derashat-Shabbat-HaGadol-lines-1-271-Nothing-But-Him-the-Name-That-Is-What-and-October-5-2026
+        quotes: 61
+        found: 7
+        status: partly found
+        found_in: ["Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Derekh-Chayyim-lines-1-419-Nothing-but-God-and-What-Is-From-Him-Love-and-Awe-October-5-2026
+        quotes: 43
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Derekh-Chayyim-lines-420-717-The-Evil-Inclination-as-Twoness-the-Caused-Cleaving-October-5-2026
+        quotes: 42
+        found: 0
+        status: none found here
+      - folder: Derekh-Chayyim-lines-718-1060-The-Name-as-Essence-Only-the-One-Judges-Alone-and-October-5-2026
+        quotes: 36
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Derekh-Chayyim-lines-1061-1696-One-From-the-Makers-Side-the-Maharal-Against-the-October-5-2026
+        quotes: 64
+        found: 0
+        status: none found here
+      - folder: Derush-al-HaTorah-lines-1-257-Be-a-Desert-Be-One-and-Want-It-First-October-5-2026
+        quotes: 47
+        found: 6
+        status: partly found
+        found_in: ["Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Drashot-Maharal-lines-59-141-Learning-That-Becomes-Deed-the-Four-Letters-of-the-October-5-2026
+        quotes: 33
+        found: 3
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Gevurot-Hashem-lines-1-443-the-simple-One-faith-as-strength-the-inner-fruit-in-October-5-2026
+        quotes: 33
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Gevurot-Hashem-lines-444-982-the-bush-the-Name-the-plagues-the-sea-the-three-October-5-2026
+        quotes: 28
+        found: 3
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Gevurot-Hashem-lines-983-1863-the-Song-the-Haggadah-and-the-return-of-all-things-October-5-2026
+        quotes: 46
+        found: 3
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Gur-Aryeh-on-Bamidbar-lines-1-440-The-One-That-Is-Not-a-Number-the-Torah-as-the-October-5-2026
+        quotes: 37
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Bamidbar-lines-441-804-Oneness-Is-Kingship-Faith-Is-Joy-Look-Up-and-October-5-2026
+        quotes: 44
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Bereishit-lines-1-707-One-Day-With-No-Twoness-Words-That-Name-His-October-5-2026
+        quotes: 52
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Gur-Aryeh-on-Bereishit-lines-708-1416-Only-One-in-the-Heart-the-Place-of-the-October-5-2026
+        quotes: 46
+        found: 2
+        status: partly found
+        found_in: ["Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Gur-Aryeh-on-Devarim-lines-1-294-He-Is-All-and-Nothing-Is-Outside-Him-the-Voice-October-5-2026
+        quotes: 42
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Devarim-lines-295-653-One-Power-With-None-Beside-It-Kingship-Is-October-5-2026
+        quotes: 37
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Shemot-lines-1-470-Ehyeh-and-Havaya-the-Name-Above-Time-His-Care-October-5-2026
+        quotes: 57
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Shemot-lines-471-968-The-Torah-as-One-Word-Glory-Spreading-in-All-October-5-2026
+        quotes: 41
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Vayikra-lines-1-460-Called-by-Name-the-Low-Near-the-High-Moshe-the-October-5-2026
+        quotes: 35
+        found: 0
+        status: none found here
+      - folder: Gur-Aryeh-on-Vayikra-lines-461-873-The-Blessing-That-Gives-the-Earth-Holiness-as-October-5-2026
+        quotes: 37
+        found: 1
+        status: partly found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Ner-Mitzvah-lines-1-90-The-One-and-the-Four-Sides-and-the-Candle-of-the-Soul-October-5-2026
+        quotes: 22
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Netivot-Olam-lines-1-411-the-Introduction-and-the-Path-of-Torah-October-5-2026
+        quotes: 23
+        found: 0
+        status: none found here
+      - folder: Netivot-Olam-lines-412-636-the-Paths-of-Service-Chesed-Tzedakah-Judgment-and-October-5-2026
+        quotes: 31
+        found: 0
+        status: none found here
+      - folder: Netivot-Olam-lines-637-815-Faith-Peace-Love-of-a-Fellow-Humility-Awe-of-God-and-October-5-2026
+        quotes: 24
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Netivot-Olam-lines-816-930-Love-of-God-Silence-Holiness-Modesty-the-Evil-October-5-2026
+        quotes: 27
+        found: 0
+        status: none found here
+      - folder: Netivot-Olam-lines-931-1248-Returning-through-Decent-Conduct-October-5-2026
+        quotes: 40
+        found: 2
+        status: partly found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Netzach-Yisrael-lines-1-450-Exile-the-One-and-the-Many-the-Bond-That-Cannot-October-5-2026
+        quotes: 41
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Netzach-Yisrael-lines-451-970-Ruin-as-the-Start-of-Being-and-His-Name-Will-Be-October-5-2026
+        quotes: 60
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Pirush HaMilos (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Ohr-Chadash-lines-1-427-The-Hidden-Miracle-Knowing-I-Lack-the-Water-Channel-From-October-5-2026
+        quotes: 36
+        found: 0
+        status: none found here
+      - folder: Ohr-Chadash-lines-428-990-The-Heart-in-Ones-Power-Nature-as-His-Messenger-October-5-2026
+        quotes: 53
+        found: 0
+        status: none found here
+      - folder: Tiferet-Yisrael-lines-1-520-The-Torah-That-Joins-and-He-Is-Found-as-the-Receiver-October-5-2026
+        quotes: 74
+        found: 1
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Tiferet-Yisrael-lines-521-1042-Anochi-Is-His-Very-Self-and-Faith-Is-the-Cleaving-October-5-2026
+        quotes: 70
+        found: 3
+        status: partly found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+  - result: "024"
+    manuscripts:
+      - folder: The-Shelah-nothing-but-His-existence-renewed-each-moment-and-a-day-built-to-live-September-30-2026
+        quotes: 24
+        found: 1
+        status: partly found
+        found_in: ["Sefer HaChakirah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Shenei-Luchot-HaBerit-Asara-Hillulim-and-Vavei-HaAmudim-lines-10782-10925-a-October-5-2026
+        quotes: 58
+        found: 2
+        status: partly found
+        found_in: ["Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Asara-Maamarot-lines-836-1296-the-ladder-of-service-October-5-2026
+        quotes: 10
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Aseret-HaDibrot-Pesachim-lines-3355-4263-kindness-renewal-October-5-2026
+        quotes: 7
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Aseret-HaDibrot-Rosh-HaShanah-and-Yoma-lines-4960-5802-October-5-2026
+        quotes: 8
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Aseret-HaDibrot-Shevuot-and-Taanit-lines-4264-4959-the-October-5-2026
+        quotes: 20
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Aseret-HaDibrot-Sukkah-Tamid-and-Megillah-lines-5803-6169-October-5-2026
+        quotes: 28
+        found: 1
+        status: partly found
+        found_in: ["Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: Shenei-Luchot-HaBerit-Aseret-HaDibrot-introduction-Chullin-Shabbat-lines-2668-October-5-2026
+        quotes: 12
+        found: 1
+        status: partly found
+        found_in: ["Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Kedushat-HaAchilah-lines-1727-2325-the-table-as-altar-October-5-2026
+        quotes: 5
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Shaar-HaOtiyot-lines-1297-1726-the-alphabet-of-traits-October-5-2026
+        quotes: 11
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Shaar-HaOtiyot-end-lines-2326-2667-holy-union-good-will-October-5-2026
+        quotes: 11
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Toldot-Adam-lines-1-835-the-unity-the-states-and-the-October-5-2026
+        quotes: 6
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebeal-Peh-lines-10293-10781-the-whole-Torah-is-His-October-5-2026
+        quotes: 33
+        found: 1
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebikhtav-Chukat-through-VZot-HaBerachah-lines-9407-October-5-2026
+        quotes: 72
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebikhtav-Introduction-through-Vayetzei-lines-6170-October-5-2026
+        quotes: 13
+        found: 2
+        status: partly found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaChakirah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebikhtav-Mishpatim-through-Pekudei-lines-7832-8455-October-5-2026
+        quotes: 16
+        found: 0
+        status: none found here
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebikhtav-Vayikra-through-Korach-lines-8456-9406-October-5-2026
+        quotes: 18
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Shenei-Luchot-HaBerit-Torah-Shebikhtav-Vayishlach-through-Yitro-lines-7003-7831-October-5-2026
+        quotes: 19
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "025"
+    manuscripts:
+      - folder: The-Piaseczner-Rebbe-the-inner-meditative-world-September-29-2026
+        quotes: 200
+        found: 143
+        status: partly found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Bnei-Machshava-Tova-the-inner-meditative-world-October-5-2026
+        quotes: 113
+        found: 113
+        status: all found
+        found_in: ["Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Chovat-HaTalmidim-the-inner-meditative-world-October-5-2026
+        quotes: 100
+        found: 0
+        status: none found here
+      - folder: Derekh-HaMelekh-file-lines-337-683-the-inner-meditative-world-October-5-2026
+        quotes: 98
+        found: 98
+        status: all found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Derekh-HaMelekh-file-lines-684-982-the-inner-meditative-world-October-5-2026
+        quotes: 85
+        found: 85
+        status: all found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Derekh-HaMelekh-file-lines-983-1308-the-inner-meditative-world-October-5-2026
+        quotes: 131
+        found: 131
+        status: all found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Derekh-HaMelekh-lines-1-336-the-inner-meditative-world-October-5-2026
+        quotes: 120
+        found: 120
+        status: all found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Derekh-HaMelekh-lines-1309-1620-the-inner-meditative-world-October-5-2026
+        quotes: 98
+        found: 98
+        status: all found
+        found_in: ["Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Esh-Kodesh-the-inner-meditative-world-October-5-2026
+        quotes: 63
+        found: 63
+        status: all found
+        found_in: ["Esh Kodesh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Hakhsharat-HaAvrekhim-the-inner-practice-October-5-2026
+        quotes: 136
+        found: 136
+        status: all found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Mevo-HaShearim-the-inner-meditative-world-October-5-2026
+        quotes: 91
+        found: 1
+        status: partly found
+        found_in: ["Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Tzav-VeZeruz-the-inner-meditative-world-October-5-2026
+        quotes: 89
+        found: 0
+        status: none found here
+  - result: "026"
+    manuscripts:
+      - folder: The-Tanya-Likkutei-Amarim-a-meditative-reading-September-29-2026
+        quotes: 56
+        found: 56
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-Shaar-HaYichud-to-the-end-a-meditative-reading-September-29-2026
+        quotes: 67
+        found: 67
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Gate-of-Unity-a-meditative-reading-September-29-2026
+        quotes: 65
+        found: 65
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Imrei-Binah-a-meditative-reading-September-29-2026
+        quotes: 159
+        found: 159
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Kuntres-HaHitpaalut-a-meditative-reading-September-29-2026
+        quotes: 43
+        found: 43
+        status: all found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Hemshech-Samach-Vav-first-half-a-meditative-reading-September-29-2026
+        quotes: 44
+        found: 44
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Hemshech-Samach-Vav-second-half-a-meditative-reading-September-29-2026
+        quotes: 36
+        found: 36
+        status: all found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Kuntres-HaAvodah-and-Kuntres-HaTefillah-a-meditative-reading-September-29-2026
+        quotes: 54
+        found: 54
+        status: all found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Sefer-HaArachim-vol-9-Achdus-Hashem-a-meditative-reading-September-29-2026
+        quotes: 78
+        found: 9
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Shaarei-HaYichud-VeEmunah-a-meditative-reading-September-29-2026
+        quotes: 177
+        found: 177
+        status: all found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "027"
+    manuscripts:
+      - folder: The-map-of-consciousness-and-meditation-in-Chassidus-September-30-2026
+        quotes: 195
+        found: 173
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "028"
+    manuscripts:
+      - folder: Sitting-with-the-One-a-meditation-manual-September-29-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: Part-I-How-to-Sit-September-29-2026
+        quotes: 111
+        found: 88
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Part-II-The-ladder-of-sittings-September-29-2026
+        quotes: 86
+        found: 76
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Part-III-Programs-September-29-2026
+        quotes: 11
+        found: 11
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Part-IV-What-Happens-Inside-September-29-2026
+        quotes: 65
+        found: 57
+        status: partly found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Part-V-When-Its-Hard-September-29-2026
+        quotes: 69
+        found: 58
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)"]
+  - result: "029"
+    manuscripts:
+      - folder: Meditative-techniques-in-Chassidus-and-the-Kabbalah-it-draws-on-a-catalogue-September-29-2026
+        quotes: 205
+        found: 33
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Abulafia-how-meditation-works-from-the-man-who-wrote-the-method-down-September-29-2026
+        quotes: 94
+        found: 4
+        status: partly found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: How-it-works-the-science-of-Jewish-and-Chassidic-meditation-September-29-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-meditative-technology-a-working-manual-for-the-guide-September-30-2026
+        quotes: 181
+        found: 119
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+  - result: "030"
+    manuscripts:
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-1-the-authors-introduction-and-October-5-2026
+        quotes: 18
+        found: 18
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-2-Likkutei-Amarim-chapters-19-to-35-October-5-2026
+        quotes: 17
+        found: 17
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-3-Likkutei-Amarim-chapters-36-to-53-October-5-2026
+        quotes: 18
+        found: 18
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-4-The-Gate-of-Unity-and-the-Letter-on-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-5-Iggeret-HaKodesh-letters-1-to-16-October-5-2026
+        quotes: 16
+        found: 16
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-book-of-consciousness-Part-6-Iggeret-HaKodesh-17-to-32-and-October-5-2026
+        quotes: 24
+        found: 24
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-as-a-Meditation-pilot-Chapter-2-September-29-2026
+        quotes: 3
+        found: 3
+        status: all found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "031"
+    manuscripts:
+      - folder: The-Tanya-reimagined-Part-1-the-opening-and-chapters-1-18-October-5-2026
+        quotes: 19
+        found: 19
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-reimagined-Part-2-Likkutei-Amarim-chapters-19-35-October-5-2026
+        quotes: 17
+        found: 17
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-reimagined-Part-3-chapters-36-53-October-5-2026
+        quotes: 18
+        found: 18
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-reimagined-Part-4-The-Gate-of-Unity-and-the-Letter-on-Return-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-reimagined-Part-5-Iggeret-HaKodesh-the-Holy-Epistle-letters-1-16-October-5-2026
+        quotes: 16
+        found: 16
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-Tanya-reimagined-Part-6-Iggeret-HaKodesh-17-32-and-Kuntres-Acharon-October-5-2026
+        quotes: 25
+        found: 25
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "032"
+    manuscripts:
+      - folder: The-full-depth-digest-of-the-readings-October-1-2026
+        quotes: 189
+        found: 174
+        status: partly found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: FULL-DESCENT-the-whole-depth-station-by-station-October-1-2026
+        quotes: 232
+        found: 215
+        status: partly found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: AB1-Hemshech-Ayin-Beis-lines-1-1950-October-1-2026
+        quotes: 156
+        found: 156
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: AB2-Hemshech-Ayin-Beis-Rebbe-Rashab-lines-1951-3900-read-for-the-full-depth-October-1-2026
+        quotes: 145
+        found: 145
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))"]
+      - folder: AB3-Hemshech-Ayin-Beis-lines-3901-5750-October-1-2026
+        quotes: 161
+        found: 161
+        status: all found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: AR-the-Alter-Rebbes-depths-Torah-Ohr-Likkutei-Torah-Tanya-October-1-2026
+        quotes: 236
+        found: 236
+        status: all found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: MH-the-Rebbe-Maharash-and-the-Rebbe-Rayatz-read-for-Go-deeper-October-1-2026
+        quotes: 158
+        found: 144
+        status: partly found
+        found_in: ["Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Kuntres Toras HaChassidus (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: MR1-the-Mitteler-Rebbes-core-works-read-for-the-full-depth-October-1-2026
+        quotes: 212
+        found: 145
+        status: partly found
+        found_in: ["Sha'arei Orah (R. Dovber Schneuri (Mitteler Rebbe))", "Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))", "Pirush HaMilos (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: MR2-Toras-Chaim-the-Mitteler-Rebbe-read-for-the-full-depth-October-1-2026
+        quotes: 119
+        found: 119
+        status: all found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: MR3-The-Mitteler-Rebbe-read-for-depth-Maamarei-Admur-HaEmtzai-Shaarei-Teshuvah-October-1-2026
+        quotes: 145
+        found: 145
+        status: all found
+        found_in: ["Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: RB-the-Lubavitcher-Rebbe-read-for-the-full-depth-October-1-2026
+        quotes: 191
+        found: 191
+        status: all found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: RK-The-Rebbe-Rashabs-short-works-read-through-for-the-full-depth-October-1-2026
+        quotes: 177
+        found: 175
+        status: partly found
+        found_in: ["Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres Eitz HaChaim (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: RM-the-Rebbe-Rashabs-Sefer-HaMaamarim-read-for-depth-October-1-2026
+        quotes: 132
+        found: 10
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: SV1-Samach-Vav-lines-1-3100-the-depth-as-the-Rashab-climbs-it-October-1-2026
+        quotes: 154
+        found: 152
+        status: partly found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: SV2-Hemshech-Samach-Vav-lines-3101-6200-OCR-October-1-2026
+        quotes: 172
+        found: 170
+        status: partly found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: SV3-Samach-Vav-the-ending-and-the-key-lines-6201-9229-October-1-2026
+        quotes: 153
+        found: 151
+        status: partly found
+        found_in: ["Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: TZ-the-Tzemach-Tzedek-read-for-depth-October-1-2026
+        quotes: 126
+        found: 126
+        status: all found
+        found_in: ["Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Maamarei Admur HaTzemach Tzedek (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "033"
+    manuscripts:
+      - folder: ON-Ontology-What-the-unity-is-at-its-deepest-October-1-2026
+        quotes: 66
+        found: 52
+        status: partly found
+        found_in: ["Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: AN-Anthropology-The-human-being-as-the-place-of-the-unity-October-1-2026
+        quotes: 64
+        found: 45
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: DESCENT-past-there-is-nothing-but-Him-October-1-2026
+        quotes: 53
+        found: 50
+        status: partly found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: GM-Guided-meditations-in-the-teachers-voices-October-1-2026
+        quotes: 93
+        found: 53
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: PC-Chassidus-as-the-continuation-of-prophecy-and-the-bridge-October-1-2026
+        quotes: 63
+        found: 18
+        status: partly found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: PK-The-path-of-prophecy-reconstructed-from-the-sources-Kaplan-used-October-1-2026
+        quotes: 67
+        found: 1
+        status: partly found
+        found_in: ["Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: PS-Psychology-how-the-unity-is-held-in-consciousness-October-1-2026
+        quotes: 47
+        found: 47
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: The-Depth-Engine-how-Chassidus-takes-any-idea-deeper-October-1-2026
+        quotes: 61
+        found: 61
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: VS-Vessels-making-a-person-safe-and-open-enough-to-receive-October-1-2026
+        quotes: 109
+        found: 83
+        status: partly found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+  - result: "034"
+    manuscripts:
+      - folder: The-inner-world-of-Achdus-Hashem-a-map-and-the-conversation-as-a-Chassidic-October-1-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: AR-The-arc-over-time-and-into-life-October-1-2026
+        quotes: 63
+        found: 62
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: BS-The-wider-Chassidic-world-on-the-inner-experience-of-the-unity-October-1-2026
+        quotes: 77
+        found: 26
+        status: partly found
+        found_in: ["Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Chassidic-prayer-as-the-place-of-integration-October-1-2026
+        quotes: 56
+        found: 51
+        status: partly found
+        found_in: ["Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: EX-The-experience-itself-from-inside-October-1-2026
+        quotes: 62
+        found: 54
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: GD-Guiding-a-modern-person-into-the-inner-world-in-a-chat-October-1-2026
+        quotes: 17
+        found: 15
+        status: partly found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-doors-how-a-person-enters-the-lived-unity-October-1-2026
+        quotes: 81
+        found: 70
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: UN-the-depths-of-the-unity-itself-October-1-2026
+        quotes: 82
+        found: 58
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "035"
+    manuscripts:
+      - folder: One-framework-for-thinking-about-the-unity-of-God-October-5-2026
+        quotes: 116
+        found: 115
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: DEEP-How-the-later-Rebbeim-reason-the-unity-at-its-deepest-October-5-2026
+        quotes: 93
+        found: 90
+        status: partly found
+        found_in: ["Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: MR-How-the-Mitteler-Rebbe-reasons-about-the-unity-a-procedure-October-5-2026
+        quotes: 178
+        found: 175
+        status: partly found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: SHY-the-Gate-of-Unity-as-a-step-by-step-proof-October-5-2026
+        quotes: 130
+        found: 127
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+  - result: "036"
+    manuscripts:
+      - folder: How-Chassidus-brings-a-Godly-idea-to-the-animal-soul-the-merged-catalogue-October-1-2026
+        quotes: 200
+        found: 113
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Methods-for-reaching-the-animal-soul-the-Alter-Rebbe-slice-AR-October-1-2026
+        quotes: 127
+        found: 107
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Methods-for-reaching-the-animal-soul-the-Rebbe-Rayatz-slice-RY-October-1-2026
+        quotes: 94
+        found: 18
+        status: partly found
+        found_in: ["Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: Methods-for-the-animal-soul-the-Tzemach-Tzedek-and-the-Rebbe-Maharash-slice-TZ-October-1-2026
+        quotes: 111
+        found: 68
+        status: partly found
+        found_in: ["Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Or HaTorah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: Methods-slice-RS-the-Rebbe-Rashab-October-1-2026
+        quotes: 106
+        found: 87
+        status: partly found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres Eitz HaChaim (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: RM-the-Lubavitcher-Rebbe-ways-to-bring-Godly-ideas-to-the-animal-soul-October-1-2026
+        quotes: 88
+        found: 17
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim Melukat (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Slice-MR-the-Mitteler-Rebbe-and-R-Aharon-of-Strashelye-October-1-2026
+        quotes: 108
+        found: 72
+        status: partly found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: The-animal-soul-in-contemplation-what-the-sources-say-October-1-2026
+        quotes: 121
+        found: 106
+        status: partly found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: The-animal-soul-the-psychology-and-what-convinces-it-that-it-is-held-October-1-2026
+        quotes: 2
+        found: 2
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Ways-for-the-animal-soul-everything-is-being-held-October-1-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+  - result: "037"
+    manuscripts:
+      - folder: Being-held-the-psychology-September-30-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: Being-held-the-Baal-Shem-Tov-and-his-circle-September-30-2026
+        quotes: 125
+        found: 8
+        status: partly found
+        found_in: ["Esh Kodesh (R. Kalonymus Kalman Shapira of Piaseczno)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Being-held-the-Chabad-sources-September-30-2026
+        quotes: 150
+        found: 126
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: The-glass-wall-the-goal-of-every-conversation-October-1-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-root-not-held-so-holding-everything-up-September-30-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+  - result: "038"
+    manuscripts:
+      - folder: DX-the-diagnostic-framework-How-a-mashpia-reads-a-person-October-1-2026
+        quotes: 91
+        found: 87
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: BODY-the-body-inside-the-avodah-October-1-2026
+        quotes: 78
+        found: 31
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: P1-Protocols-part-1-the-Chassidic-clinic-October-1-2026
+        quotes: 93
+        found: 70
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: P2-The-clinic-protocols-part-2-October-1-2026
+        quotes: 89
+        found: 69
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "039"
+    manuscripts:
+      - folder: The-psychological-parallel-Part-A-where-hisbonenus-sits-and-steps-1-7-September-29-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-psychological-parallel-part-B-steps-8-14-and-adverse-effects-and-September-29-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+  - result: "040"
+    manuscripts:
+      - folder: The-Medicine-Map-Tier-A-October-5-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-Chabad-Library-as-Medicine-October-5-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: Anger-and-relationships-October-5-2026
+        quotes: 25
+        found: 16
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: BT-Biurei-Tanya-Esterman-Kaidaner-Simchovitz-October-5-2026
+        quotes: 33
+        found: 0
+        status: none found here
+      - folder: CA-Chanah-Ariel-October-5-2026
+        quotes: 34
+        found: 0
+        status: none found here
+      - folder: Checks-Tier-A-October-5-2026
+        quotes: 13
+        found: 2
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Desire-and-habit-October-5-2026
+        quotes: 30
+        found: 27
+        status: partly found
+        found_in: ["Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: DM-Derech-Mitzvosecha-October-5-2026
+        quotes: 33
+        found: 33
+        status: all found
+        found_in: ["Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Ego-and-self-October-5-2026
+        quotes: 60
+        found: 58
+        status: partly found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Faith-and-meaning-October-5-2026
+        quotes: 25
+        found: 21
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei Avodah (R. Aharon HaLevi of Strashelye)", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Fear-and-worry-October-5-2026
+        quotes: 17
+        found: 12
+        status: partly found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: GU-Shaar-HaYichud-The-Gate-of-Unity-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Ner Mitzvah VeTorah Or (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: HY-Hayom-Yom-October-5-2026
+        quotes: 43
+        found: 43
+        status: all found
+        found_in: ["Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: IB-Imrei-Binah-October-5-2026
+        quotes: 33
+        found: 33
+        status: all found
+        found_in: ["Imrei Binah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: INY-Inyanah-Shel-Toras-HaChassidus-On-the-Essence-of-Chassidus-October-5-2026
+        quotes: 28
+        found: 28
+        status: all found
+        found_in: ["Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: KA-Kuntres-HaAvodah-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Maamarei Admur HaEmtzai (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: KH-Kuntres-HaHispaalus-Tract-on-Ecstasy-October-5-2026
+        quotes: 34
+        found: 33
+        status: partly found
+        found_in: ["Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: KT-Kuntres-HaTefillah-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: KU-Kuntres-Umaayan-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Kuntres Umaayan (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))", "Sha'arei Orah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: LS1-Likkutei-Sichos-October-5-2026
+        quotes: 41
+        found: 41
+        status: all found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: LS2-Likkutei-Sichos-October-5-2026
+        quotes: 41
+        found: 41
+        status: all found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: LS3-Likkutei-Sichos-October-5-2026
+        quotes: 37
+        found: 36
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: LT1-Likkutei-Torah-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: LT2-Likkutei-Torah-October-5-2026
+        quotes: 35
+        found: 33
+        status: partly found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))", "Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: LT3-Likkutei-Torah-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: MST-Shaarei-Teshuvah-Gates-of-Return-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Sha'arei Teshuvah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: PR-Pelach-HaRimon-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Pelach HaRimon (R. Hillel HaLevi of Paritch)"]
+      - folder: Prayer-and-connection-October-5-2026
+        quotes: 41
+        found: 35
+        status: partly found
+        found_in: ["Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Purpose-and-service-October-5-2026
+        quotes: 23
+        found: 23
+        status: all found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Inyanah Shel Toras HaChassidus (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Return-after-failure-October-5-2026
+        quotes: 66
+        found: 57
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: SA-Shaarei-Avodah-Gates-of-Divine-Service-October-5-2026
+        quotes: 35
+        found: 35
+        status: all found
+        found_in: ["Sha'arei Avodah (R. Aharon HaLevi of Strashelye)"]
+      - folder: Sadness-and-heaviness-October-5-2026
+        quotes: 16
+        found: 12
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: SHS1-Sefer-HaSichos-Rayatz-5680-5691-1920-1931-October-5-2026
+        quotes: 36
+        found: 0
+        status: none found here
+      - folder: SHS2-Sefer-HaSichos-Rayatz-5706-5710-October-5-2026
+        quotes: 33
+        found: 0
+        status: none found here
+      - folder: SO-Shaarei-Orah-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Sha'arei Orah (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Suffering-and-loss-October-5-2026
+        quotes: 29
+        found: 28
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: SY-Sheeris-Yehudah-October-5-2026
+        quotes: 25
+        found: 0
+        status: none found here
+      - folder: TAN-Tanya-Likkutei-Amarim-Shaar-HaYichud-VehaEmunah-Iggeres-HaTeshuvah-Iggeres-October-5-2026
+        quotes: 39
+        found: 39
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: TC1-Toras-Chaim-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: TC2-Toras-Chaim-October-5-2026
+        quotes: 37
+        found: 34
+        status: partly found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: TC3-Toras-Chaim-October-5-2026
+        quotes: 32
+        found: 32
+        status: all found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: TC4-Toras-Chaim-Shemos-vol-2-Yisro-to-Pekudei-October-5-2026
+        quotes: 34
+        found: 33
+        status: partly found
+        found_in: ["Toras Chaim (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: The-Works-Tier-A-October-5-2026
+        quotes: 1
+        found: 1
+        status: all found
+        found_in: ["Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Thought-and-attention-October-5-2026
+        quotes: 18
+        found: 17
+        status: partly found
+        found_in: ["The Gate of Unity (R. Dovber Schneuri (Mitteler Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Tier-B-The-Rebbeims-letters-and-talks-on-everyday-problems-October-5-2026
+        quotes: 693
+        found: 92
+        status: partly found
+        found_in: ["Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sefer HaMaamarim (R. Yosef Yitzchak Schneersohn (Rebbe Rayatz))"]
+      - folder: TO1-Torah-Ohr-October-5-2026
+        quotes: 33
+        found: 33
+        status: all found
+        found_in: ["Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: TO2-Torah-Ohr-October-5-2026
+        quotes: 39
+        found: 38
+        status: partly found
+        found_in: ["Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "041"
+    manuscripts:
+      - folder: The-integration-map-how-the-unity-of-God-becomes-a-persons-nature-October-1-2026
+        quotes: 108
+        found: 107
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaTefillah (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+  - result: "042"
+    manuscripts:
+      - folder: The-transformation-framework-October-1-2026
+        quotes: 51
+        found: 45
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: The-technique-library-forty-seven-ways-in-for-anyone-October-1-2026
+        quotes: 92
+        found: 51
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Only-One-the-transformation-cards-September-30-2026
+        quotes: 114
+        found: 72
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Esh Kodesh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+  - result: "043"
+    manuscripts:
+      - folder: How-a-conversation-creates-change-September-30-2026
+        quotes: 5
+        found: 3
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Derekh HaMelekh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: The-mechanism-map-how-each-Chassidic-process-of-change-works-on-a-person-September-30-2026
+        quotes: 54
+        found: 41
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: Safety-and-contraindications-of-the-translation-layer-September-30-2026
+        quotes: 24
+        found: 17
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: Formulation-what-the-guide-keeps-about-a-person-September-30-2026
+        quotes: 3
+        found: 3
+        status: all found
+        found_in: ["Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Knowing-whether-it-worked-September-30-2026
+        quotes: 2
+        found: 1
+        status: partly found
+        found_in: ["Kuntres HaAvodah (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Programs-multi-day-tracks-for-the-guide-September-30-2026
+        quotes: 41
+        found: 36
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Esh Kodesh (R. Kalonymus Kalman Shapira of Piaseczno)"]
+      - folder: Rubric-for-the-simulated-client-panel-September-30-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-guides-persona-a-healing-meditative-presence-built-from-the-sources-September-30-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-mechanics-of-proven-therapies-borrowed-for-a-chat-guide-September-30-2026
+        quotes: 24
+        found: 24
+        status: all found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Therapies-that-already-join-faith-and-psychology-September-30-2026
+        quotes: 8
+        found: 5
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+  - result: "044"
+    manuscripts:
+      - folder: The-laws-of-the-mashal-October-1-2026
+        quotes: 102
+        found: 97
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: METHOD-how-the-Rebbeim-make-a-mashal-and-how-to-make-a-new-one-October-1-2026
+        quotes: 1
+        found: 1
+        status: all found
+        found_in: ["Maamarei Admur HaZaken (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: NEW-new-meshalim-for-today-October-1-2026
+        quotes: 53
+        found: 50
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)"]
+      - folder: SB1-Source-book-of-meshalim-I-Tanya-the-Alter-Rebbe-the-Mitteler-Rebbe-R-Aharon-October-1-2026
+        quotes: 227
+        found: 225
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Torah Ohr (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: Source-book-II-the-meshalim-of-the-Baal-Shem-Tov-to-the-Rebbe-and-the-Piaseczner-October-1-2026
+        quotes: 212
+        found: 145
+        status: partly found
+        found_in: ["Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Toras Shmuel (R. Shmuel Schneersohn (Rebbe Maharash))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "045"
+    manuscripts:
+      - folder: The-teachers-craft-how-Chassidus-is-imparted-October-1-2026
+        quotes: 76
+        found: 32
+        status: partly found
+        found_in: ["Hakhsharat HaAvrekhim (R. Kalonymus Kalman Shapira of Piaseczno)", "Bnei Machshava Tova (R. Kalonymus Kalman Shapira of Piaseczno)", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
+      - folder: The-Baal-Shem-Tov-how-he-met-people-and-how-the-guide-can-carry-his-manner-October-1-2026
+        quotes: 100
+        found: 21
+        status: partly found
+        found_in: ["Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: The-four-teachers-how-they-present-and-teach-October-1-2026
+        quotes: 56
+        found: 3
+        status: partly found
+        found_in: ["Sha'arei HaYichud VeEmunah (R. Aharon HaLevi of Strashelye)", "Likkutei Torah (R. Shneur Zalman of Liadi (Alter Rebbe))"]
+      - folder: The-teacher-how-a-guide-imparts-the-wisdom-moment-by-moment-in-a-chat-October-1-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+  - result: "046"
+    manuscripts:
+      - folder: The-universal-translation-the-unity-of-God-for-anyone-anywhere-October-1-2026
+        quotes: 40
+        found: 16
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Likkutei Sichos (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))"]
+      - folder: The-plain-experience-lexicon-October-1-2026
+        quotes: 143
+        found: 120
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Hemshech Ayin Beis (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+      - folder: Only-One-a-universal-framework-for-the-unity-of-God-September-30-2026
+        quotes: 78
+        found: 63
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hayom Yom (R. Menachem Mendel Schneerson (Lubavitcher Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))"]
+  - result: "047"
+    manuscripts:
+      - folder: The-Ladder-From-Zero-October-1-2026
+        quotes: 34
+        found: 24
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Sefer HaChakirah (R. Menachem Mendel Schneersohn (Tzemach Tzedek))", "Derekh Mitzvotekha (R. Menachem Mendel Schneersohn (Tzemach Tzedek))"]
+      - folder: How-modern-teachers-map-the-inner-path-October-1-2026
+        quotes: 0
+        found: 0
+        status: no Hebrew quotes
+      - folder: The-One-Ladder-October-1-2026
+        quotes: 43
+        found: 41
+        status: partly found
+        found_in: ["Tanya (R. Shneur Zalman of Liadi (Alter Rebbe))", "Hemshech Samach Vav (R. Shalom Dovber Schneersohn (Rebbe Rashab))", "Kuntres HaHitpa'alut (R. Dovber Schneuri (Mitteler Rebbe))"]
